@@ -21,6 +21,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           are gundu ga  {count}
         </button>
+        <button onClick={() => alert("are gundu ga")}>
+          are gundu ga  {count}
+        </button>
         <p>
           Edit <code>src/App.jsx</code> and dont save this brought 
         </p>
